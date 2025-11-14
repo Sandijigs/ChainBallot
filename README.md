@@ -26,7 +26,7 @@
 
 2.  Clone the repository by using the command
 
-        git clone https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain.git
+        git clone https://github.com/Sandijigs/ChainBallot.git
 
 3.  Download and install [Ganache](https://trufflesuite.com/ganache/).
 
@@ -106,9 +106,6 @@
 
         truffle migrate
 
-You're all set! The Voting app should be up and running now at http://localhost:8080/.<br>
-For more info about usage checkout [YouTube video](https://www.youtube.com/watch?v=a5CJ70D2P-E).
-
 ## Code Structure
 
     ├── blockchain-voting-dapp            # Root directory of the project.
@@ -149,11 +146,3 @@ For more info about usage checkout [YouTube video](https://www.youtube.com/watch
         ├── package-lock.json             # Lockfile for package dependencies.
         ├── README.md                     # Project documentation.
         └── truffle-config.js                    # Truffle configuration file.
-
-## License
-
-The code in this repository is licensed under the MIT License. This means that you are free to use, modify, and distribute the code, as long as you include the original copyright and license notice. For more information about LICENSE please click [here](https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/LICENSE).
-
-## If you like this project, please give it a 🌟.
-
-## Thank you 😊.
